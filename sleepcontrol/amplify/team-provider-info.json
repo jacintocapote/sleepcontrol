@@ -1,0 +1,19 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "sleepcontrol-local-20191022180510-authRole",
+            "UnauthRoleArn": "arn:aws:iam::662870886897:role/sleepcontrol-local-20191022180510-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::662870886897:role/sleepcontrol-local-20191022180510-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "sleepcontrol-local-20191022180510-deployment",
+            "UnauthRoleName": "sleepcontrol-local-20191022180510-unauthRole",
+            "StackName": "sleepcontrol-local-20191022180510",
+            "StackId": "arn:aws:cloudformation:eu-central-1:662870886897:stack/sleepcontrol-local-20191022180510/b99f8c40-f4e5-11e9-81d8-0a4de0a8f3d8"
+        },
+        "categories": {
+            "auth": {
+                "sleepcontrole03df0a3": {}
+            }
+        }
+    }
+}

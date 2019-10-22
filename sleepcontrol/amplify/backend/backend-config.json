@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"sleepcontrole03df0a3": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
